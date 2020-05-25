@@ -1,0 +1,380 @@
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /api/students/s21111; QueryString: ; Body: {
+	"Index":"s1234"
+};
+Method: GET; Path: /api/students/s21111; QueryString: ; Body: {
+	"Index":"s1234"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s1234"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s1234"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s11111"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s11111"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s11111"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s11111"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s11111"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s11111"
+};
+Method: POST; Path: /api/enrollments/promotions; QueryString: ; Body: {
+"Studies": "Budownictwo",
+"Semester": 2
+};
+Method: POST; Path: /api/enrollments/promotions; QueryString: ; Body: {
+"Studies": "Budownictwo",
+"Semester": 2
+};
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s11111"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: {
+	"Index":"s11111"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Hasło":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Hasło":"asd123"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/enrollments/promotions; QueryString: ; Body: {
+"Studies": "Budownictwo",
+"Semester": 2
+};
+Method: POST; Path: /api/enrollments/promotions; QueryString: ; Body: {
+"Studies": "Budownictwo",
+"Semester": 2
+};
+Method: POST; Path: /api/enrollments/promotions; QueryString: ; Body: {
+"Studies": "Budownictwo",
+"Semester": 2
+};
+Method: POST; Path: /api/enrollments/promotions; QueryString: ; Body: {
+"Studies": "Budownictwo",
+"Semester": 2
+};
+Method: POST; Path: /api/enrollments/promotions; QueryString: ; Body: {
+"Studies": "Budownictwo",
+"Semester": 1
+};
+Method: POST; Path: /api/enrollments/promotions; QueryString: ; Body: {
+"Studies": "Budownictwo",
+"Semester": 1
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/enrollments/promotions; QueryString: ; Body: {
+"Studies": "Budownictwo",
+"Semester": 1
+};
+Method: POST; Path: /api/enrollments/promotions; QueryString: ; Body: {
+"Studies": "Budownictwo",
+"Semester": 1
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+
+};
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+
+};
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: "d62661f7-dea0-425b-8beb-1262cf861769";
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: "d62661f7-dea0-425b-8beb-1262cf861769";
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"d62661f7-dea0-425b-8beb-1262cf861769"
+};
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"d62661f7-dea0-425b-8beb-1262cf861769"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"d62661f7-dea0-425b-8beb-1262cf861769"
+};
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"d62661f7-dea0-425b-8beb-1262cf861769"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"12e8b28c-e8a0-448a-b8a6-068c93118f28"
+};
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"12e8b28c-e8a0-448a-b8a6-068c93118f28"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"03ef8a30-374d-4714-aa37-70ccbf40e67b"
+};
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"03ef8a30-374d-4714-aa37-70ccbf40e67b"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"03ef8a30-374d-4714-aa37-70ccbf40e67b"
+};
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"03ef8a30-374d-4714-aa37-70ccbf40e67b"
+};
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"03ef8a30-374d-4714-aa37-70ccbf40e67b"
+};
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"03ef8a30-374d-4714-aa37-70ccbf40e67b"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"03ef8a30-374d-4714-aa37-70ccbf40e67b"
+};
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"03ef8a30-374d-4714-aa37-70ccbf40e67b"
+};
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"3c06f984-9826-4085-9e7a-7599825f793b"
+};
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"3c06f984-9826-4085-9e7a-7599825f793b"
+};
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"3c06f984-9826-4085-9e7a-7599825f793b"
+};
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"3c06f984-9826-4085-9e7a-7599825f793b"
+};
