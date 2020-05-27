@@ -118,7 +118,7 @@ namespace WebApplication1.Controllers
 
         [HttpPost("login")]
         [AllowAnonymous]
-        // dla każdego loginu (IndexNumber) hasło to: asd123
+        // dla loginu (IndexNumber = s1234) hasło to: asd123
         public IActionResult Login(LoginRequestDto request)
         {
             var response = _service.LoginStudentResponse(request);
