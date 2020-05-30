@@ -337,11 +337,6 @@ namespace WebApplication1.Services
                         response.Message = "Błąd! Podany Refresh Token nie istnieje. Zaloguj się ponownie";
                         return response;
                     }
-
-                    response.IndexNumber = 
-                    response.Message = "Poprawnie zapisano refresh token";
-
-                    return response;
                 }
                 catch (SqlException e)
                 {

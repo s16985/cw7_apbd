@@ -378,3 +378,73 @@ Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861
 Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
 	"Token":"3c06f984-9826-4085-9e7a-7599825f793b"
 };
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"3c06f984-9826-4085-9e7a-7599825f793b"
+};
+Method: POST; Path: /api/students/refreshToken/d62661f7-dea0-425b-8beb-1262cf861769; QueryString: ; Body: {
+	"Token":"3c06f984-9826-4085-9e7a-7599825f793b"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /api/students; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: GET; Path: /favicon.ico; QueryString: ; Body: ;
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd123"
+};
+Method: POST; Path: /api/students/refreshToken/%7Btoken; QueryString: ; Body: {
+	"Token":"3c06f984-9826-4085-9e7a-7599825f793b"
+};
+Method: POST; Path: /api/students/refreshToken/%7Btoken; QueryString: ; Body: {
+	"Token":"3c06f984-9826-4085-9e7a-7599825f793b"
+};
+Method: POST; Path: /api/students/refreshToken/a7cbe966-14f6-47be-9ce7-56c5d14744db; QueryString: ; Body: {
+	"Token":"a7cbe966-14f6-47be-9ce7-56c5d14744db"
+};
+Method: POST; Path: /api/students/refreshToken/a7cbe966-14f6-47be-9ce7-56c5d14744db; QueryString: ; Body: {
+	"Token":"a7cbe966-14f6-47be-9ce7-56c5d14744db"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd12a3"
+};
+Method: POST; Path: /api/students/login; QueryString: ; Body: {
+	"Login":"s1234",
+	"Haslo":"asd12a3"
+};
